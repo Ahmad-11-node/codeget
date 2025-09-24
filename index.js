@@ -1,6 +1,6 @@
 console.log("gitHub") 
 console.log("modified")
-console.log("modified2")
+console.log("conflict merge")
 
 console.log("added one line")
 
